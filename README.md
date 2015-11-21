@@ -51,7 +51,7 @@ content3 | _content4_
 
 `what do you mean`
 
-[my web][(http://thetoptenweb.com)]
+http://thetoptenweb.com
 
 [x] do something
 [ ] or not
